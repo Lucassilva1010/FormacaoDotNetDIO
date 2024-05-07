@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "textos", "textos", "{3016AA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacotesNugets", "..\PacotesNugets\PacotesNugets.csproj", "{CF5276D4-F0CF-474B-A65E-CD30C10DD8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulasPOO", "..\AulasPOO\AulasPOO.csproj", "{3E4CD2CE-4F23-4628-BED2-4986AC9338DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulasPOO", "..\AulasPOO\AulasPOO.csproj", "{3E4CD2CE-4F23-4628-BED2-4986AC9338DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaCelular", "..\SistemaCelular\SistemaCelular.csproj", "{3C114A48-E3F0-473C-B172-00ED018D3FCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{3E4CD2CE-4F23-4628-BED2-4986AC9338DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E4CD2CE-4F23-4628-BED2-4986AC9338DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E4CD2CE-4F23-4628-BED2-4986AC9338DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C114A48-E3F0-473C-B172-00ED018D3FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C114A48-E3F0-473C-B172-00ED018D3FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C114A48-E3F0-473C-B172-00ED018D3FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C114A48-E3F0-473C-B172-00ED018D3FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
